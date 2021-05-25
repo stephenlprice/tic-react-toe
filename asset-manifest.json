@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/stephenlprice/tic-react-toe/static/css/main.eb194731.chunk.css",
+    "main.js": "/stephenlprice/tic-react-toe/static/js/main.7a126799.chunk.js",
+    "main.js.map": "/stephenlprice/tic-react-toe/static/js/main.7a126799.chunk.js.map",
+    "runtime-main.js": "/stephenlprice/tic-react-toe/static/js/runtime-main.992eaa6d.js",
+    "runtime-main.js.map": "/stephenlprice/tic-react-toe/static/js/runtime-main.992eaa6d.js.map",
+    "static/js/2.8aba79be.chunk.js": "/stephenlprice/tic-react-toe/static/js/2.8aba79be.chunk.js",
+    "static/js/2.8aba79be.chunk.js.map": "/stephenlprice/tic-react-toe/static/js/2.8aba79be.chunk.js.map",
+    "index.html": "/stephenlprice/tic-react-toe/index.html",
+    "static/css/main.eb194731.chunk.css.map": "/stephenlprice/tic-react-toe/static/css/main.eb194731.chunk.css.map",
+    "static/js/2.8aba79be.chunk.js.LICENSE.txt": "/stephenlprice/tic-react-toe/static/js/2.8aba79be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.992eaa6d.js",
+    "static/js/2.8aba79be.chunk.js",
+    "static/css/main.eb194731.chunk.css",
+    "static/js/main.7a126799.chunk.js"
+  ]
+}
